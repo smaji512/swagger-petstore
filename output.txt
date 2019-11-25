@@ -1,0 +1,4 @@
+### New Feature as output in Text file with below updated link
+
+
+http://petstore.swagger.io/#/operations/pet
