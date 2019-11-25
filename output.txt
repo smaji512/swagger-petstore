@@ -1,4 +1,5 @@
 ### New Feature as output in Text file with below updated link
 ### Updating the Output file in remote to Pull branch from remote
+### Adding new tag to release 1.2 task
 
 http://petstore.swagger.io/#/operations/pet
